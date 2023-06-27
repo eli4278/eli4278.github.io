@@ -2,5 +2,7 @@
 main:
   - title: "About"
     url: /about/
+  - title: "CV"
+    url: /EricLi_Resume_Final.pdf
   - title: "Portfolio"
     url: /portfolio/
