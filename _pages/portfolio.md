@@ -5,7 +5,7 @@ title: "Portfolio"
 
 ## Data Science Projects
 
-### [ATP Professional Tennis Data Analysis](https://github.com/eli4278/eli/blob/main/ATP_Data_Analysis.ipynb)
+### [ATP Professional Tennis Data Science Tutorial](https://github.com/eli4278/eli/blob/main/ATP_Data_Analysis.ipynb)
 <img src="/images/tennis_serve.jpg?raw=true"/>
 
 ---
@@ -17,3 +17,5 @@ title: "Portfolio"
 <img src="/images/moneyball.jpg?raw=true"/>
 
 ---
+### [NASA Solar Flare Data](https://github.com/eli4278/eli/blob/main/solar_flares.ipynb)
+<img src="/images/solar_flare.jpg?raw=true"/>
