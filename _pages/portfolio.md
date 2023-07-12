@@ -1,8 +1,8 @@
 ---
 permalink: /portfolio/
 title: "Portfolio"
-<base target="_blank">
 ---
+<base target="_blank">
 
 ## Data Science Projects
 
