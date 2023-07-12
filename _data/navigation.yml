@@ -3,6 +3,6 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "CV"
-    url: /EricLi_Resume_Final.pdf
+    url: /EricLi_Resume_Final.pdf{:target="_blank"}
   - title: "About"
     url: /about/
