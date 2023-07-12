@@ -21,9 +21,13 @@ I webscraped solar flare data from different sources using the BeautifulSoup pac
 ---
 ### [Gapminder Data Visualization](https://github.com/eli4278/eli/blob/main/gapminder.ipynb)
 
+Using life expectancy data from gapminder.org, I experimented with statistical models such as generalized linear models and applied visualization techniques to find trends and differences in life expectancy between different parts of the world.
+
 <!-- <img src="/images/life_expectancy.svg?raw=true"/> -->
 
 ---
 ### [Moneyball Analysis](https://github.com/eli4278/eli/blob/main/moneyball.ipynb)
+
+Inspired by the movie MoneyBall, I analyzed performance and spending data from the MLB to see whether or not the the Oakland A's really performed better than other teams while spending less money. The data used was first extracted from an SQL database and cleaned.
 
 <!-- <img src="/images/moneyball.jpg?raw=true"/> -->
