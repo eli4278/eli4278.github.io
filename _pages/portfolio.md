@@ -2,8 +2,6 @@
 permalink: /portfolio/
 title: "Portfolio"
 ---
-<base target="_blank">
-
 ## Data Science Projects
 
 ### [ATP Professional Tennis Data Science Tutorial](https://github.com/eli4278/eli/blob/main/ATP_Data_Analysis.ipynb)
