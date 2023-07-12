@@ -1,6 +1,7 @@
 ---
 permalink: /portfolio/
 title: "Portfolio"
+<base target="_blank">
 ---
 
 ## Data Science Projects
@@ -12,7 +13,7 @@ In this project, I analyzed data from the ATP (Association of Tennis Professiona
 <!-- <img src="/images/tennis_serve.jpg?raw=true"/> -->
 
 ---
-### [NASA Solar Flare Data](https://github.com/eli4278/eli/blob/main/solar_flares.ipynb)
+### [Solar Flare EDA](https://github.com/eli4278/eli/blob/main/solar_flares.ipynb)
 
 I webscraped solar flare data from different sources using the BeautifulSoup package in python in order to corroborate the information and see whether or not different sources agree with each other.
 
