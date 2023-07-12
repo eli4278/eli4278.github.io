@@ -3,6 +3,6 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "CV"
-    url: <a href="https://github.com/eli4278/eli4278.github.io/blob/master/EricLi_Resume_Final.pdf"></a>
+    url: <a href="https://github.com/eli4278/eli4278.github.io/blob/master/EricLi_Resume_Final.pdf target="_blank""></a>
   - title: "About"
     url: /about/
