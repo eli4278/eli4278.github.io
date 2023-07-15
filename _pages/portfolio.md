@@ -20,13 +20,18 @@ Inspired by the movie MoneyBall, I analyzed performance and spending data from t
 ---
 ### [Solar Flare EDA](https://github.com/eli4278/eli/blob/main/solar_flares.ipynb){:target="_blank"}
 
-I webscraped solar flare data from different sources using the BeautifulSoup package in python in order to corroborate the information and see whether or not different sources agree with each other.
+Using the BeautifulSoup package in Python, I webscraped solar flare data from different sources using the BeautifulSoup package in python in order to corroborate the information and see whether or not different sources agree with each other.
 
 <!-- <img src="/images/solar_flare.jpg?raw=true"/> -->
 
 ---
 ### [Gapminder Data Visualization](https://github.com/eli4278/eli/blob/main/gapminder.ipynb){:target="_blank"}
 
-Using life expectancy data from gapminder.org, I experimented with statistical models such as generalized linear models and applied visualization techniques to find trends and differences in life expectancy between different parts of the world.
+With life expectancy data from gapminder.org, I employed statistical models such as generalized linear models and applied visualization techniques to find trends and differences in life expectancy between different parts of the world.
 
 <!-- <img src="/images/life_expectancy.svg?raw=true"/> -->
+
+---
+### [Sewage Overflow Map](https://nbviewer.org/github/eli4278/eli/blob/main/sewage.ipynb){:target="_blank"}
+
+I created an interactive map in order to visualize sewage overflow data in Maryland and their different causes.
