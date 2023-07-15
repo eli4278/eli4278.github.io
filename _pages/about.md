@@ -5,7 +5,7 @@ permalink: /about/
 
 ## Introduction
 
-Welcome to my data science portfolio website! My name is Eric Li, and I am an ambitious undergraduate student at the University of Maryland - College Park, majoring in Statistics and Data Science. With a passion for uncovering insights from complex data, I am excited to forge a rewarding career in data analysis.
+Hello! My name is Eric Li, and I am an ambitious undergraduate student at the University of Maryland - College Park, majoring in Statistics and Data Science. With a passion for uncovering insights from complex data, I am excited to forge a rewarding career in data analysis.
 
 As I approach my graduation in May 2024, I am eagerly preparing to transition into the world of data science. This website serves as a platform for me to showcase my technical skills and present a comprehensive overview of my professional experience. Through various projects and endeavors, I have honed my abilities in data manipulation, statistical modeling, and machine learning techniques.
 
