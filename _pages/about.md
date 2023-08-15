@@ -5,7 +5,7 @@ permalink: /about/
 
 ## Introduction
 
-Welcome! My name is Eric Li, and I am an undergraduate student at the University of Maryland - College Park, majoring in Mathematics, Statistics, and Computer Science. Over the past few years, I have become interested in uncovering insights from complex data, and am excited to forge a rewarding career in data science/analysis as I set to graduate in May 2024.
+Welcome! My name is Eric Li, and I am an undergraduate student at the University of Maryland - College Park, pursuing a dual degree in Statistics and Computer Science. Over the past few years, I have become interested in uncovering insights from complex data, and am excited to forge a rewarding career in data science/analysis as I set to graduate in May 2024.
 
 This website serves as a platform to showcase my technical skills and present a comprehensive overview of my professional experience. Through various projects and endeavors, I have honed my abilities in data cleaning/organization, statistical modeling, and machine learning techniques.
 
