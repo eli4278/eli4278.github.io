@@ -11,9 +11,14 @@ In this project, I analyzed data from the ATP (Association of Tennis Professiona
 <!-- <img src="/images/tennis_serve.jpg?raw=true"/> -->
 
 ---
+### [BMI Classification](https://github.com/eli4278/eli/blob/main/sleep_health.ipynb){:target="_blank"}
+
+I experimented with three classification models (Logistic Regression, Naive Bayes, SVM) in order to predict the the BMI category of an individual based on health attributes such as physical activity level, sleep quality, and blood pressure. This project provided valuable insights into the training time vs. accuracy tradeoff.
+
+---
 ### [Gapminder Data Visualization](https://github.com/eli4278/eli/blob/main/gapminder.ipynb){:target="_blank"}
 
-With life expectancy data from gapminder.org, I employed advanced statistical techniques such as generalized linear models residuals analysis in order to discover trends and differences in life expectancy between different continents.
+With life expectancy data from gapminder.org, I employed advanced statistical techniques such as generalized linear models and residuals analysis in order to discover trends and differences in life expectancy between different continents.
 
 <!-- <img src="/images/life_expectancy.svg?raw=true"/> -->
 
