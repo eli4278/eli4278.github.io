@@ -5,12 +5,12 @@ permalink: /about/
 
 ## Introduction
 
-Welcome! My name is Eric Li, and I am an ambitious undergraduate student at the University of Maryland - College Park, majoring in Statistics and Data Science. With a passion for uncovering insights from complex data, I am excited to forge a rewarding career in data analysis.
+Welcome! My name is Eric Li, and I am an undergraduate student at the University of Maryland - College Park, majoring in Mathematics, Statistics, and Computer Science. Over the past few years, I have become interested in uncovering insights from complex data, and am excited to forge a rewarding career in data science/analysis as I set to graduate in May 2024.
 
-As I approach my graduation in May 2024, I am eagerly preparing to transition into the world of data science. This website serves as a platform for me to showcase my technical skills and present a comprehensive overview of my professional experience. Through various projects and endeavors, I have honed my abilities in data manipulation, statistical modeling, and machine learning techniques.
+This website serves as a platform to showcase my technical skills and present a comprehensive overview of my professional experience. Through various projects and endeavors, I have honed my abilities in data cleaning/organization, statistical modeling, and machine learning techniques.
 
-I believe that data has the power to drive informed decision-making and fuel innovation across industries. With a meticulous and analytical mindset, I am dedicated to leveraging data-driven solutions that make a tangible impact. Whether it's exploring patterns in customer behavior, uncovering market trends, or solving complex problems, I am committed to extracting meaningful insights that drive business growth.
+I believe that data has the power to drive informed decision-making and fuel innovation across industries. In particular, I am interested in leveraging data-driven solutions that make a tangible impact, and am committed to extracting meaningful insights that drive business and intellectual growth.
 
-Please take a moment to explore my portfolio, where you'll find a collection of projects that demonstrate my proficiency in data analysis. From exploratory data analysis to predictive modeling, each project represents a unique opportunity for me to showcase my technical expertise and problem-solving abilities.
+In this portfolio, you'll find a variety of projects that demonstrate my proficiency in data science. With facets such as exploratory data analysis, interactive visualizations, and predictive modeling, each project represents a unique opportunity for me to showcase my technical expertise and problem-solving abilities.
 
 Thank you for visiting my portfolio website, and I look forward to connecting with fellow data enthusiasts and potential collaborators. Together, let's harness the power of data to transform the way we understand and navigate the world.
