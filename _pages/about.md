@@ -5,8 +5,8 @@ permalink: /about/
 
 ## Introduction
 
-Hi, my name is Eric Li, and I am a graduate student at the Harvard School of Public Health, pursuing a M.S. in Biostatistics. Over the past few years, I have become interested in uncovering insights from complex data, and am excited to forge a rewarding career in data science/analysis as I set to graduate in December 2025.
+Hi, my name is Eric Li, and I recently graduated from the Harvard School of Public Health with a M.S. in Biostatistics. Over the past few years, I have been interested in applying statistical methods to help improve human health, and am excited to forge a rewarding career in biostatistics/data science.
 
-This website serves as a platform to showcase my technical skills and present a comprehensive overview of my professional experience. Through various projects and endeavors, I have honed my abilities in data cleaning/organization, statistical modeling, and machine learning techniques.
+This website serves as a platform to showcase my technical skills and present a comprehensive overview of my professional experience. Through various projects and endeavors, I have honed my abilities in statistical modeling, machine learning techniques, data cleaning/organization.
 
-In this portfolio, you'll find a variety of projects that demonstrate my proficiency in data science. With facets such as exploratory data analysis, interactive visualizations, and predictive modeling, each project represents a unique opportunity for me to showcase my technical expertise and problem-solving abilities.
+In this portfolio, you'll find a variety of my data science and statistics projects. With facets such as predictive modeling, exploratory data analysis, and interactive visualizations, each project presents a unique showcase of my technical expertise and ability to uncover valuable insights hidden in data.
