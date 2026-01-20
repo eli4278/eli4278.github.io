@@ -41,7 +41,7 @@ Using the BeautifulSoup package in Python, I webscraped solar flare data from di
 
 <!-- <img src="/images/solar_flare.jpg?raw=true"/> -->
 
----
+<!-- ---
 ### [Sewage Overflow Map](https://nbviewer.org/github/eli4278/eli/blob/main/sewage.ipynb){:target="_blank"}
 
-I created an interactive map in order to visualize sewage overflow data in Maryland and their different causes.
+I created an interactive map in order to visualize sewage overflow data in Maryland and their different causes. -->
